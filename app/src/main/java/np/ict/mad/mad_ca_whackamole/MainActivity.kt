@@ -99,7 +99,6 @@ fun GameScreen(navController: NavHostController) {
             moleIndex = -1
         }
     }
-
     Column(
         modifier = Modifier.fillMaxSize()
     ) {
